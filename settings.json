@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MineBox.aternos.me",
+    "ip": "MineBox.aternos.me:35298",
     "port": 35298,
     "version": "1.20.1",
     "try-creative": false
